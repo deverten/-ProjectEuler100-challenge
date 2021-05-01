@@ -1,3 +1,5 @@
+//Function to determine the multiples of 3 and 5 within a given digit
+
 function multiplesOf3and5(number) {
     let arr = [];
     for (let num = 1; num < number; num ++){
